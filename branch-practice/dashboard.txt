@@ -1,0 +1,4 @@
+Dashboard features
+1. User report
+2. sales reports
+3. notification panel
